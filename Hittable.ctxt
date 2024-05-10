@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Hittable
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Hittable\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=damage
+comment1.target=void\ hit(int)
+numComments=2

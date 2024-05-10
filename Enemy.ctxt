@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemy\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=level
+comment1.target=Enemy(int)
+comment2.params=speed\ level
+comment2.target=Enemy(int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=damage
+comment4.target=void\ hit(int)
+comment5.params=
+comment5.target=void\ fire()
+numComments=6

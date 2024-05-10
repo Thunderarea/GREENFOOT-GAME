@@ -1,0 +1,37 @@
+Class documentation
+<---- javadoc command: ---->
+D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\Greenfoot\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+17
+-classpath
+D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\greenfoot.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx-base-20.0.1-win.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx-base-20.0.1.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx-controls-20.0.1-win.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx-controls-20.0.1.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx-fxml-20.0.1-win.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx-graphics-20.0.1-win.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx-graphics-20.0.1.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx-media-20.0.1-win.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx-media-20.0.1.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx-swing-20.0.1-win.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx-web-20.0.1-win.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\junit-4.12.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\junit-jupiter-5.5.2.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\junit-jupiter-api-5.5.2.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\junit-jupiter-engine-5.5.2.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\junit-jupiter-params-5.5.2.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\junit-platform-commons-1.5.2.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\junit-platform-engine-1.5.2.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\junit-platform-launcher-1.5.2.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\junit-platform-suite-api-1.5.2.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\junit-vintage-engine-5.5.2.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\hamcrest-core-1.3.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\opentest4j-1.2.0.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\bluej.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\classgraph-4.8.90.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\diffutils-1.2.1.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\commons-logging-1.2.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\jl1.0.1.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\opencsv-2.3.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\opencsv-2.4.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\xom-1.3.7.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\lang-stride.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\nsmenufx-2.1.8.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\wellbehavedfx-0.3.3.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\guava-17.0.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\simple-png-0.2.0.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\simple-png-javafx-0.2.0.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\httpclient-4.5.13.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\httpcore-4.4.13.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\httpmime-4.1.1.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx\javafx.base.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx\javafx.controls.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx\javafx.fxml.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx\javafx.graphics.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx\javafx.media.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx\javafx.properties.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx\javafx.swing.jar;D:\MASTER\COURSES\SERIOUS GAMES\Greenfoot-windows-382\greenfoot\lib\javafx\javafx.web.jar;D:\MASTER\COURSES\SERIOUS GAMES\GAME\dogfight
+-d
+D:\MASTER\COURSES\SERIOUS GAMES\GAME\dogfight\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+D:\MASTER\COURSES\SERIOUS GAMES\GAME\dogfight\Level1.java
+<---- end of javadoc command ---->
+Loading source file D:\MASTER\COURSES\SERIOUS GAMES\GAME\dogfight\Level1.java...
+Constructing Javadoc information...
+warning: unknown enum constant Tag.Any
+  reason: class file for threadchecker.Tag not found
+warning: unknown enum constant Tag.Any
+warning: unknown enum constant Tag.Any
+warning: unknown enum constant Tag.Any
+Standard Doclet version 17.0.4.1+1
+Building tree for all the packages and classes...
+Generating D:\MASTER\COURSES\SERIOUS GAMES\GAME\dogfight\doc\Level1.html...
+Generating D:\MASTER\COURSES\SERIOUS GAMES\GAME\dogfight\doc\package-summary.html...
+Generating D:\MASTER\COURSES\SERIOUS GAMES\GAME\dogfight\doc\index.html...
+4 warnings

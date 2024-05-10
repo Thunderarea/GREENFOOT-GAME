@@ -8,7 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Aircraft extends SmoothMover implements Hittable {
+public class Aircraft extends SmoothMover {
     private static final int changeImageDelay = 2;
     private static final int imageNewHeight = 70;
     private static final int changeHitImageDelay = 5;

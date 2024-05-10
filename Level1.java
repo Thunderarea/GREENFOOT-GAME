@@ -12,8 +12,8 @@ public class Level1 extends Level
     private static final int PLAYER_LIFE = 2;
     private static final int ENEMIES_LEVEL = 1;
     private static final int PLAYER_LEVEL = 1;
-    private static final int ENEMIES_LINES = 1;
-    private static final int MAX_LEVEL = 1;
+    private static final int ENEMIES_LINES = 5;
+    private static final int MAX_LEVEL = 3;
 
     private int levelCounter;
     

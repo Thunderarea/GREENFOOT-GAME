@@ -23,7 +23,6 @@ public class Bullet extends SmoothMover
         
         setImage("./bullets/bullet2.png");
         GreenfootImage image = getImage();
-        //image.scale(6, 6);
         image.rotate(90);
         setRotation(rotation);
     }
@@ -37,10 +36,11 @@ public class Bullet extends SmoothMover
     }
     
     public void checkHit() {
-        Hittable actor = (Hittable) getOneIntersectingObject(Hittable.class);
-        if (actor != null && actor.getClass() != owner.getClass() && actor.getClass() != this.getClass()) 
+        Aircraft actor = (Aircraft) getOneIntersectingObject(Aircraft.class);
+        Class hitClass = actor.getClass();
+        if (actor != null && hitClass != owner.getClass() && hitClass != Bullet.class) 
         {
-            Hittable hittableActor = (Hittable) actor;
+            Aircraft hittableActor = (Aircraft) actor;
             addHitEffect();
             getWorld().removeObject(this);
             hittableActor.hit(damage);
@@ -66,7 +66,6 @@ public class Bullet extends SmoothMover
     
     public int calculateBulletDamage() {
         int damage = level / 2;
-        
         return (damage == 0) ? 1 : damage;
     }
     

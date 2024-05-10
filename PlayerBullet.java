@@ -17,7 +17,7 @@ public class PlayerBullet extends Bullet
     
     @Override
     public void checkHit() {
-        Hittable actor = (Hittable) getOneIntersectingObject(Hittable.class);
+        Aircraft actor = (Aircraft) getOneIntersectingObject(Aircraft.class);
         
         if (actor != null) {
             Class hitClass = actor.getClass();

@@ -84,10 +84,8 @@ public class Level extends Screen
     
     public void handleEnemyDeath(Enemy enemy) {
         enemies.remove(enemy);
-        System.out.println(enemies.size());
         if (enemies.size() == 1) shootDelay = 55; // remember to update the value when new enemies are added
         else if (enemies.size() == 0) {
-            System.out.println("handle");
             handleZeroEnemies();
         }
     }

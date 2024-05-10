@@ -8,19 +8,18 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class Player extends Aircraft
 {
-    private int gunReloadTime;
-    private int reloadDelayCount;
     private int totalScore;
     private int scoreCounter;
     private int initialLife;
+    private boolean canShoot;
     
     public Player(int life, int gunReloadTime, int speed, int level) {
         super(life, speed, level, false);
         initialLife = life;
-        this.gunReloadTime = gunReloadTime;
         totalScore = 0;
         scoreCounter = 0;
-        reloadDelayCount = gunReloadTime;
+        
+        canShoot = true;
     }
     
     public void update(int level) {
@@ -33,8 +32,6 @@ public class Player extends Aircraft
         super.act();
         checkKeys();
         keepInside();
-
-        reloadDelayCount++;
     }
 
     public void hit(int damage) {
@@ -67,14 +64,15 @@ public class Player extends Aircraft
         }
         
         if (Greenfoot.isKeyDown("space")) fire();
+        else canShoot = true;
     }
     
     private void fire() {
-        if (reloadDelayCount >= gunReloadTime) {
+        if (canShoot) {
             PlayerBullet bullet = new PlayerBullet(270, getLevel(), this);
             getWorld().addObject (bullet, getX(), getY() - getImage().getHeight()/2 - bullet.getImage().getHeight()/2);
             Greenfoot.playSound("blast.mp3");
-            reloadDelayCount = 0;
+            canShoot = false;
         }
     }
     

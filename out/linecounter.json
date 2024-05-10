@@ -1,0 +1,1557 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "d:\\MASTER\\COURSES\\SERIOUS GAMES\\GAME\\dogfight",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2024-05-10 21:49:28",
+            "filesum": 219,
+            "codesum": 2219,
+            "commentsum": 263,
+            "blanksum": 150,
+            "statistics": {
+                ".ctxt": {
+                    "code": 243,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".java": {
+                    "code": 651,
+                    "comment": 153,
+                    "blank": 134
+                },
+                ".greenfoot": {
+                    "code": 203,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".TXT": {
+                    "code": 11,
+                    "comment": 0,
+                    "blank": 1
+                },
+                "": {
+                    "code": 4,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".css": {
+                    "code": 777,
+                    "comment": 74,
+                    "blank": 6
+                },
+                ".js": {
+                    "code": 96,
+                    "comment": 27,
+                    "blank": 9
+                },
+                ".html": {
+                    "code": 193,
+                    "comment": 9,
+                    "blank": 0
+                },
+                ".txt": {
+                    "code": 37,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".ini": {
+                    "code": 4,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "filename": "Aircraft.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "Aircraft.ctxt"
+                },
+                {
+                    "blank": 20,
+                    "code": 93,
+                    "comment": 7,
+                    "filename": "Aircraft.java"
+                },
+                {
+                    "filename": "Bar.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "Bar.ctxt"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 12,
+                    "filename": "Bar.java"
+                },
+                {
+                    "filename": "Bullet.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "Bullet.ctxt"
+                },
+                {
+                    "blank": 13,
+                    "code": 62,
+                    "comment": 10,
+                    "filename": "Bullet.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "doc\\element-list"
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 1,
+                    "filename": "doc\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "doc\\legal\\ADDITIONAL_LICENSE_INFO"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "doc\\legal\\ASSEMBLY_EXCEPTION"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "doc\\legal\\LICENSE"
+                },
+                {
+                    "blank": 0,
+                    "code": 122,
+                    "comment": 7,
+                    "filename": "doc\\Level1.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "doc\\logfile.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 46,
+                    "comment": 1,
+                    "filename": "doc\\package-summary.html"
+                },
+                {
+                    "blank": 9,
+                    "code": 96,
+                    "comment": 27,
+                    "filename": "doc\\script.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 777,
+                    "comment": 74,
+                    "filename": "doc\\stylesheet.css"
+                },
+                {
+                    "filename": "EndScreen.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "EndScreen.ctxt"
+                },
+                {
+                    "blank": 5,
+                    "code": 27,
+                    "comment": 7,
+                    "filename": "EndScreen.java"
+                },
+                {
+                    "filename": "Enemy.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Enemy.ctxt"
+                },
+                {
+                    "blank": 7,
+                    "code": 30,
+                    "comment": 7,
+                    "filename": "Enemy.java"
+                },
+                {
+                    "filename": "EnemyBullet.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "EnemyBullet.ctxt"
+                },
+                {
+                    "blank": 6,
+                    "code": 24,
+                    "comment": 7,
+                    "filename": "EnemyBullet.java"
+                },
+                {
+                    "filename": "HitEffect.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "HitEffect.ctxt"
+                },
+                {
+                    "blank": 9,
+                    "code": 39,
+                    "comment": 6,
+                    "filename": "HitEffect.java"
+                },
+                {
+                    "filename": "Hittable.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Hittable.ctxt"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 6,
+                    "filename": "Hittable.java"
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_1\\ANimated\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_1\\ANimated\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_1\\ANimated\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_1\\Biploar_type1_5.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_2\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_2\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_2\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_2\\Biploar_type2_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_3\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_3\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_3\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_3\\Biploar_type3_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_4\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_4\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_4\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_4\\Biploar_type4_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_5\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_5\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_5\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_5\\Biploar_type5_2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_6\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_6\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_6\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_6\\Biploar_type6_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_7\\Animated\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_7\\Animated\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_7\\Animated\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level1 - Bipolar Plane\\Type_7\\Biploar_type5_1_without_pattern.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level1\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level1\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level1\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_1\\Animated\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_1\\Animated\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_1\\Animated\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_1\\Hawker_type1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_2\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_2\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_2\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_2\\Hawker_type_2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_3\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_3\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_3\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level2 - Hawker Tempest MKII\\Type_3\\type_3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level2\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level2\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level2\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_1\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_1\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_1\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_1\\TBM-3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_2\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_2\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_2\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_2\\type_2_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_3\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_3\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_3\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level3 - TBM3\\Type_3\\type_3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level3\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level3\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level3\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-1\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-1\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-1\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-1\\BF109E.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-2\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-2\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-2\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-2\\Type2_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-3\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-3\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-3\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-3\\Type2_2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-4\\Animated\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-4\\Animated\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-4\\Animated\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level4 - BF-109E\\Type-4\\new_plane_6.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level4\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level4\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level4\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_1\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_1\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_1\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_1\\JU87B2 -progress_4.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_2\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_2\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_2\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_2\\JU87B2 -progress_5.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_3\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_3\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_3\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level5 - JU-87B2\\Type_3\\JU87B2 -progress_5.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level5\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level5\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level5\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level6 - Blenheim\\Type_1\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level6 - Blenheim\\Type_1\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level6 - Blenheim\\Type_1\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level6 - Blenheim\\Type_1\\Blemheim_progress_3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level6 - Blenheim\\Type_2\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level6 - Blenheim\\Type_2\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level6 - Blenheim\\Type_2\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level6 - Blenheim\\Type_2\\Colorable_blenheim_2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level6\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level6\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level6\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-1\\Animation\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-1\\Animation\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-1\\Animation\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-1\\B-17.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-2\\Animated\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-2\\Animated\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-2\\Animated\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-2\\colored_2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-3\\Animated\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-3\\Animated\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-3\\Animated\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-3\\colored_3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-4\\Animated\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-4\\Animated\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-4\\Animated\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\Level7 - B-17\\Type-4\\colored_4.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level7\\1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level7\\2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\airplanes\\level7\\3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\background.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_2_blue.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_2_purple.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_blue0000.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_blue0002.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_blue0003.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_blue0004.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_orange0000.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_orange0001.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_orange0002.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_orange0003.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_orange0004.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_purple0000.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_purple0001.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_purple0002.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_purple0003.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\bullets\\bullet_purple0004.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\granite-light.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "images\\hit\\desktop.ini"
+                },
+                {
+                    "filename": "images\\hit\\hit_0000.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\hit\\hit_0001.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\hit\\hit_0002.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\hit\\hit_0003.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\hit\\hit_0004.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\hit\\hit_0005.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\hit\\hit_0006.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\hit\\hit_0007.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\hit\\hit_0008.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "images\\rivets.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Level.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 34,
+                    "comment": 0,
+                    "filename": "Level.ctxt"
+                },
+                {
+                    "blank": 23,
+                    "code": 97,
+                    "comment": 10,
+                    "filename": "Level.java"
+                },
+                {
+                    "filename": "Level1.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Level1.ctxt"
+                },
+                {
+                    "blank": 7,
+                    "code": 42,
+                    "comment": 6,
+                    "filename": "Level1.java"
+                },
+                {
+                    "filename": "Level2.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Level2.ctxt"
+                },
+                {
+                    "blank": 9,
+                    "code": 38,
+                    "comment": 11,
+                    "filename": "Level2.java"
+                },
+                {
+                    "filename": "Player.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "Player.ctxt"
+                },
+                {
+                    "blank": 13,
+                    "code": 84,
+                    "comment": 7,
+                    "filename": "Player.java"
+                },
+                {
+                    "filename": "PlayerBullet.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "PlayerBullet.ctxt"
+                },
+                {
+                    "blank": 4,
+                    "code": 22,
+                    "comment": 7,
+                    "filename": "PlayerBullet.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 203,
+                    "comment": 0,
+                    "filename": "project.greenfoot"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "README.TXT"
+                },
+                {
+                    "filename": "Screen.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Screen.ctxt"
+                },
+                {
+                    "blank": 4,
+                    "code": 16,
+                    "comment": 7,
+                    "filename": "Screen.java"
+                },
+                {
+                    "filename": "SmoothMover.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "SmoothMover.ctxt"
+                },
+                {
+                    "blank": 7,
+                    "code": 39,
+                    "comment": 32,
+                    "filename": "SmoothMover.java"
+                },
+                {
+                    "filename": "sounds\\airplane.mp3",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "sounds\\blast.mp3",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "sounds\\medium-explosion.mp3",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "StartScreen.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "StartScreen.ctxt"
+                },
+                {
+                    "blank": 5,
+                    "code": 27,
+                    "comment": 11,
+                    "filename": "StartScreen.java"
+                }
+            ]
+        }
+    ]
+}

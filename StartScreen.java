@@ -36,7 +36,7 @@ public class StartScreen extends Screen
     
     private void createInstructions() {
         getBackground().setFont(new Font("Arial", true, false, 62));
-        showText("Instructions \n Use left-rigth arrow to move your plane \n Use Space to shoot \n Kill all the enemy planes before they kill you", getScreenWidth()/2, 250);
+        showText("Instructions \n Use left-rigth arrow to move your plane \n Use Space to shoot (Don't press it continually) \n Kill all the enemy planes before they kill you \n Level 1: be familiar with the game \n Level 2: Survive till the end \n For every hit you earn 1 score point \n For every 10 score points you gain one of your lost lives", getScreenWidth()/2, 250);
         showText("Press Space to start", getScreenWidth()/2, 650);
     }
 }

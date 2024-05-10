@@ -41,7 +41,6 @@ public class Level2 extends Level
     
     @Override
     public void handleZeroEnemies() {
-        System.out.println("handle2");
         if (enemiesLevel < 7) {
             nextLevel();
         } else Greenfoot.setWorld(new EndScreen(true, player.getScore()));
